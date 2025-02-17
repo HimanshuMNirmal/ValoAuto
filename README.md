@@ -1,6 +1,4 @@
-Certainly! Here's the same content formatted for Notion, using a structure that works well in Notion’s markdown-style editor:
 
----
 
 # Microsoft Edge Automation Script
 
