@@ -87,7 +87,7 @@ def perform_action(email, password):
     write(search_string)
     pyautogui.press('enter')
 
-    for i in range(9):
+    for i in range(10):
         search_google()
 
     pyautogui.hotkey('ctrl', 'shift', 'w')
